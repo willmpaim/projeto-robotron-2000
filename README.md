@@ -7,7 +7,7 @@ projeto divertido onde colocamos as partes do robo para aumentar seus atributos 
 
 <li> Manipulação de DOM,
 <li> Utilização callback ForEach para iteração de arrays,
-<li> manipulação de objeto e como percorrelo,
-<li> data-attributes,
+<li> Manipulação de objeto e como percorrelo,
+<li> Data-attributes,
 
 Acesse o projeto aqui: https://willmpaim.github.io/Projeto-Robotron-2000/
