@@ -1,11 +1,13 @@
 # Projeto Robotron 2000 #
-``projeto de aprendizagem de interações do JS com a pagina através de manipulação de DOM ``
+<h2> :open_file_folder: Sobre o projeto </h2>
+<p> Robotron 2000 é um projeto realizado pela Alura onde aprendemos a manipulação de Dom,
+projeto divertido onde colocamos as partes do robo para aumentar seus atributos para combater a ameaça alienígena</p> 
 
-<h2> :mortar_board: O que aprendemos ? :mortar_board: </h2>
+<h3> :mortar_board: O que aprendemos ? :mortar_board: </h3>
 
-<li> Manipulação de DOM
-<li> utilização callbeck ForEach para iteração de arrays
-<li> utilização de objeto 
-<li> manipulação de objeto e como percorrelo
-<li> data-attributes
+<li> Manipulação de DOM,
+<li> Utilização callback ForEach para iteração de arrays,
+<li> manipulação de objeto e como percorrelo,
+<li> data-attributes,
 
+Acesse o projeto aqui: https://willmpaim.github.io/Projeto-Robotron-2000/
