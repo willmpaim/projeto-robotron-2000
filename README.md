@@ -10,4 +10,4 @@ projeto divertido onde colocamos as partes do robo para aumentar seus atributos 
 <li> Manipulação de objeto e como percorrelo,
 <li> Data-attributes,
 
-Acesse o projeto aqui: https://willmpaim.github.io/Projeto-Robotron-2000/
+Acesse o projeto aqui: https://willmpaim.github.io/projeto-robotron-2000/
